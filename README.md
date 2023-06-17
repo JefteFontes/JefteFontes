@@ -14,5 +14,5 @@ Sou Jefté Fontes, um iniciante em programação e estudante de Análise e Desen
 #### HTML
 #### CSS
 #### JavaScript
-
+***
 ### Em breve projetos individuais...
