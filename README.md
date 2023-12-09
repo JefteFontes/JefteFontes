@@ -16,7 +16,7 @@
 
 </div> <br>
 
-![Jefté's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&theme=dark)
+![Jefté's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&theme=dracula)
 
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&theme=dracula"/>
