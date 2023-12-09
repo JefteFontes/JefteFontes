@@ -1,18 +1,21 @@
-# Jefté Fontes
+### Hello, My name is Jefté, what's yours? 
 
-## Olá!👋
+* 📚 ADS Student at IFPI.
+* 🚀 Tech Enthusiast & Constant Learner.
 
-Sou Jefté Fontes, um iniciante em programação e estudante de Análise e Desenvolvimento de Sistemas. Meu foco principal está nas áreas de front-end e mobile, e estou sempre buscando aprender mais e aprimorar minhas habilidades nesses campos.
 
-## Sobre mim
-#### 🔭 Atualmente estou estudando na faculdade de Análise e Desenvolvimento de Sistemas.
-#### 🌱 Estou aprimorando meus conhecimentos em HTML, CSS e JavaScript.
-#### 💡 Procuro oportunidades de aprendizado e crescimento na área de front-end e mobile.
-#### 🎯 Meus objetivos incluem desenvolver aplicações web e mobile incríveis e intuitivas.
+<br>
+<br>
 
-## Habilidades
-#### HTML
-#### CSS
-#### JavaScript
-***
-### Em breve projetos individuais...
+<div style="display: inline_block">
+
+<img align="center" height= 40 width= 40 alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="center" height= 40 width= 45 alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="center" height= 40 width= 45 alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="center" height= 40 width= 45 alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+
+</div> <br>
+
+![Jefté's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&theme=dark)
+
+<br>
