@@ -9,10 +9,10 @@ About me
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&title_color=f49f1c&icon_color=d8f3dc&text_color=f49f1c&bg_color=030e4f"/>
 
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&title_color=f49f1c&icon_color=d8f3dc&text_color=f49f1c&bg_color=030e4f"/>
 
 ## 
 <div style="display: inline_block">
