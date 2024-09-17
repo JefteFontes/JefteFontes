@@ -15,7 +15,7 @@ About me
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&title_color=f49f1c&icon_color=d8f3dc&text_color=F2BC94&bg_color=030e4f"/>
 
 ## 
-<div style="display: inline_block">
+<div style="display: inline_block; width:100%;">
 <img align="center" height= 40 width= 40 alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="center" height= 40 width= 45 alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="center" height= 40 width= 45 alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
