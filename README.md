@@ -20,4 +20,5 @@ About me
 <img align="center" height= 40 width= 45 alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="center" height= 40 width= 45 alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="center" height= 40 width= 45 alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="center" height= 40 width= 45 alt="ang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
 </div> 
