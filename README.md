@@ -1,26 +1,52 @@
-## Hi👋
-I'm Jefté Fontes, a beginner in programming and a student of Systems Analysis and Development. My main focus is on the front-end and mobile areas, and I am always looking to learn more and improve my skills in these areas.
+# Olá, eu sou o Jefté Fontes 👋 | Hi, I'm Jefté Fontes
 
-About me
-#### 🔭 I am currently studying at the Systems Analysis and Development faculty.
-#### 🌱 I'm improving my knowledge of HTML, CSS and JavaScript.
-#### 💡 I'm looking for opportunities to learn and grow in the front-end and mobile area.
-#### 🎯 My goals include developing incredible and intuitive web and mobile applications.
+Sou estudante de Análise e Desenvolvimento de Sistemas focado em criar soluções modernas para Web e Mobile. Atualmente, estou expandindo meus horizontes para o ecossistema Full Stack.
 
-<br>
+*I'm a Systems Analysis and Development student focused on building modern solutions for Web and Mobile. Currently, I'm expanding my horizons to the Full Stack ecosystem.*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&title_color=f49f1c&icon_color=d8f3dc&text_color=F2BC94&bg_color=030e4f"/>
+---
 
-<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&title_color=f49f1c&icon_color=d8f3dc&text_color=F2BC94&bg_color=030e4f"/>
+### 🔭 O que estou fazendo / What I'm up to:
+- 🎓 Cursando **ADS** / *Studying **Systems Analysis & Development***.
+- 🚀 Aprimorando aplicações com **Next.js** & **Node.js** / *Enhancing apps with **Next.js** & **Node.js***.
+- 📱 Criando apps multiplataforma com **Flutter & Dart** / *Building cross-platform apps with **Flutter & Dart***.
+- 🛠️ Explorando o mundo corporativo com **.NET** & **Django** / *Exploring the enterprise world with **.NET** & **Django***.
 
-## 
-<div style="display: inline_block; width:100%;">
-<img align="center" height= 40 width= 40 alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="center" height= 40 width= 45 alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="center" height= 40 width= 45 alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="center" height= 40 width= 45 alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="center" height= 40 width= 45 alt="ang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-</div> 
-<img align="center" height= 40 width= 45 alt="ang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-</div> 
+---
+
+### 🛠️ Tecnologias e Ferramentas | Tech Stack:
+
+#### **Front-end & Mobile**
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Next" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Angular" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Flutter" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Dart" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+</div>
+
+#### **Back-end & Database**
+<div style="display: inline_block">
+  <img align="center" alt="Node" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="DotNet" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Postgre" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
+---
+
+### 📊 Estatísticas | Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&title_color=f49f1c&icon_color=d8f3dc&text_color=F2BC94&bg_color=030e4f"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&title_color=f49f1c&icon_color=d8f3dc&text_color=F2BC94&bg_color=030e4f"/>
+</div>
+
+---
+
+### 📫 Contato | Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefté-fontes-a5237b29a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeftefontes@gmail.com)
