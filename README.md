@@ -41,13 +41,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado em criar soluçõ
 
 ### 📊 Estatísticas | Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefteFontes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteFontes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JefteFontes&theme=tokyonight" />
+  <img width="100%" src="https://metrics.lecoq.io/JefteFontes?template=classic&base.header=0&base.activity=0&base.community=0&display=regular"/>
 </div>
 
 ---
